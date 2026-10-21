@@ -5,4 +5,5 @@
 
 - 架构：一级 欧洲律动/ECOMET → 二级合资 ECOMET×360（70∶30）与 Hans 线 → 三级 斯洛伐克项目公司
 - 更新节奏：每周一、周四完整对账后同步推送；重大节点（死线/关键回复）随时更新
-- 本仓库为私有仓库，仅 Leo 本人可见
+- 在线查看（GitHub Pages）：https://canleolu-cell.github.io/ludong-europe-gantt/
+- 本仓库为公开仓库，任何人可查看
